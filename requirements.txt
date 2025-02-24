@@ -1,1 +1,7 @@
+streamlit
+pandas
+smtplib
+email-validator
+openpyxl
+streamlit-quill
 
